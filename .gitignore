@@ -2,7 +2,12 @@
 writer
 Test_*_Runner.c
 build/
+CMakeFiles/
 crosstool-ng
 aesd-build
 .vscode/
 test.sh.log
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
